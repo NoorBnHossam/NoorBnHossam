@@ -1,9 +1,13 @@
 <h1 align="center">Hi, I'm Noor <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> </h1>
-<h3 align="center">Student at Faculty of Artificial Intelligence</h3>
+<h3 align="center">Student at Faculty of Artificial Intelligence <img src="https://cdn-icons-png.flaticon.com/512/2814/2814666.png" width="35px"> </h3>
+<br>
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmExZTYxNTQwMTNiYmQzMTIxZGI2NWVkMzhjYmM4MTdlMWI3OTYxYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/100006320867461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100006320867461" height="30" width="40" /></a>
+<a href="https://fb.com/100006320867461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100006320867461" height="40" width="40" /></a>
+<img align="center" alt="Cat" width="40" src="https://media0.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.webp">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
