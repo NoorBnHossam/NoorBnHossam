@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Noor <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center">Student at Faculty of Artificial Intelligence <img src="https://cdn-icons-png.flaticon.com/512/2814/2814666.png" width="35px"> </h3>
 <br>
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmExZTYxNTQwMTNiYmQzMTIxZGI2NWVkMzhjYmM4MTdlMWI3OTYxYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+
 
 
 <h3 align="left">Connect with me:</h3>
