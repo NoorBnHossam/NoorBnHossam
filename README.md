@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noor</h1>
+<h1 align="center">Hi, I'm Noor <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center">Student at Faculty of Artificial Intelligence</h3>
 
 <h3 align="left">Connect with me:</h3>
