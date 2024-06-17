@@ -24,7 +24,7 @@
 ###  Languages and Tools 💻:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=go,python,bash,linux,md,git,github,vscode,postman,html,css,linux,arduino,mysql,cs" />
+    <img src="https://skillicons.dev/icons?i=go,python,bash,linux,md,git,github,vscode,postman,html,css,arduino,mysql,cs" />
 </p>
 
 ###  Connect with me:
