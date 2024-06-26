@@ -32,11 +32,6 @@
   <a href="https://www.facebook.com/profile.php?id=100006320867461">
     <img src="https://raw.githubusercontent.com/noorbnhossam/noorbnhossam/main/icons/facebook.png" alt="Facebook" height="40" width="43" />
   </a>
-<a href="https://discord.com/invite/noorbnhossam">
-  <span title="Search for noorbnhossam on Discord">
-    <img src="https://raw.githubusercontent.com/noorbnhossam/noorbnhossam/main/icons/discord.png" alt="Discord" height="43" width="43" />
-  </span>
-</a>
   <a href="https://www.linkedin.com/in/noorbnhossam/">
     <img src="https://raw.githubusercontent.com/noorbnhossam/noorbnhossam/main/icons/linkedin.png" alt="LinkedIn" height="42" width="43" />
   </a>
