@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Noor <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
-  <strong>Student at Faculty of Artificial Intelligence, Cyber Security Department</strong>
+  <strong>Student at Faculty of Artificial Intelligence
   <br>
   <strong>if i can automate it i will waste my day automating it🛠️🔄<strong>
 
