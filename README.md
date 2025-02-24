@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Noor! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<!--
+<!--<h1 align="center">Hi, I'm Noor! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+
 <p align="center">
   <strong>Student at the Faculty of Artificial Intelligence</strong>  
   <br>
