@@ -1,11 +1,19 @@
-<h1 align="center">Hi, I'm Noor <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Noor! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
-  <strong>Student at Faculty of Artificial Intelligence
+  <strong>Student at the Faculty of Artificial Intelligence</strong>  
   <br>
-  <strong>if i can automate it i will waste my day automating it🛠️🔄<strong>
+  <em>"Nothing is unhackable. Hacking is the solution. 🐦‍🔥"</em>
+</p>
+
 
 </p>
+<!--
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FF00&width=435&lines=Nothing+is+unhackable;Hacking+is+the+solution+%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5">
+</p>
+-->
+
 
 ---
 
