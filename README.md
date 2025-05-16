@@ -13,23 +13,50 @@
 
 ---
 
-###  i am a Bug Hunter 🐞
+## 🛡️ About Me
 
-- Actively engaging in security assessments and identifying vulnerabilities in systems.
-- I'm passionate about exploring new automation tools and scripting to simplify tasks.
+```go
+type SecurityEnthusiast struct {
+    Name    string
+    Role    string
+    Passion string
+    Motto   string
+}
 
+func NewSecurityEnthusiast() *SecurityEnthusiast {
+    return &SecurityEnthusiast{
+        Name:    "Noor",
+        Role:    "DevSecOps Engineer & Penetration Tester",
+        Passion: "Making the digital world more secure",
+        Motto:   "Security is not a feature, it's a mindset",
+    }
+}
 
-###  I’m currently learning 🌱
-- Spanish
-- Advanced penetration testing techniques
+func (s *SecurityEnthusiast) CurrentFocus() []string {
+    return []string{
+        "DevSecOps Implementation",
+        "Penetration Testing",
+        "Vulnerability Assessment",
+        "Security Automation",
+    }
+}
+```
 
+## 🎯 What I Do
+
+- 🔍 Conducting comprehensive penetration testing and security assessments
+- 🔐 Implementing DevSecOps practices in CI/CD pipelines
+- 🛠️ Developing security automation tools and scripts
+- 🐞 Bug bounty hunting and vulnerability research
+- 📊 Security architecture design and implementation
 
 
 ###  Languages and Tools 💻:
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=go,python,bash,linux,md,git,github,vscode,postman,html,css,arduino,mysql,cs" />
-</p>
+<div style="text-align: center;">
+  <img src="https://skillicons.dev/icons?i=html,css,md,arduino,python,go,bash,linux,git,github,vscode,postman,mysql,cs,docker,kubernetes,ansible,terraform,jenkins,aws" />
+</div>
+
 
 ###  Connect with me:
 <p align="center">
