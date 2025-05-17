@@ -68,4 +68,5 @@ func (s *SecurityEnthusiast) CurrentFocus() []string {
   </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/noorbnhossam/noorbnhossam/output/snake.svg" alt="Snake animation" />
 ---
