@@ -69,4 +69,4 @@ func (s *SecurityEnthusiast) CurrentFocus() []string {
 </p>
 
 <img src="https://raw.githubusercontent.com/NoorBnHossam/NoorBnHossam/output/snake.svg" alt="Snake animation" />
----
+
